@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.AddContactTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-28T16:31:37" hostname="DESKTOP-RK4J23M" time="35.373">
+  <properties/>
+  <testcase name="addContactPositiveFrontDataProviderTest[0](Oliver, Kan1, 1234567890, man@gm1.com, Berlin, master)" classname="com.phonebook.tests.AddContactTests" time="1.196"/>
+  <testcase name="addContactPositiveFrontDataProviderTest[1](Oliver, Kan2, 1222222890, man@gm2.com, Berlin, master)" classname="com.phonebook.tests.AddContactTests" time="1.077"/>
+  <testcase name="addContactPositiveFrontDataProviderTest[2](Oliver, Kan3, 1233333390, man@gm3.com, Berlin, master)" classname="com.phonebook.tests.AddContactTests" time="0.996"/>
+  <testcase name="addContactPositiveTest" classname="com.phonebook.tests.AddContactTests" time="1.142"/>
+  <system-out><![CDATA[19:31:27.391 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFrontDataProviderTest with data: [Oliver, Kan1, 1234567890, man@gm1.com, Berlin, master]
+19:31:38.922 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFrontDataProviderTest
+19:31:38.922 [Test worker] INFO  com.phonebook.tests.TestBase -- ===========================
+19:31:38.923 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFrontDataProviderTest with data: [Oliver, Kan2, 1222222890, man@gm2.com, Berlin, master]
+19:31:50.355 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFrontDataProviderTest
+19:31:50.355 [Test worker] INFO  com.phonebook.tests.TestBase -- ===========================
+19:31:50.355 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveFrontDataProviderTest with data: [Oliver, Kan3, 1233333390, man@gm3.com, Berlin, master]
+19:32:01.600 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFrontDataProviderTest
+19:32:01.600 [Test worker] INFO  com.phonebook.tests.TestBase -- ===========================
+19:32:01.601 [Test worker] INFO  com.phonebook.tests.TestBase -- Start test addContactPositiveTest with data: []
+19:32:13.092 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveTest
+19:32:13.092 [Test worker] INFO  com.phonebook.tests.TestBase -- ===========================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
